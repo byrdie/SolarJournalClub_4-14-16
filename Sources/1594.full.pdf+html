@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html>
+<html class="pl"
+  lang="en"
+  dir="ltr" version="HTML+RDFa+MathML 1.1"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#">
+    <link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/advagg_css/css__J-bWUqx1_uW1Bf0By2ur82HyPnuqHd-YBZd7eRVozoo__oubSnrkh7PqdmOgvbrdAvFMolbxAPe6v3PVcBPCwqXU__tRFtQv_nS1XtF9y18CbO4TdT_gJfeXxr39BsbMQhoEw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire.style.highwire.css?o5lhtb" media="all" />
+<link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/advagg_css/css__UH9u9l6TYuV68QEZsz4cEQiH-NsswsQjoFe8Yei4niw__DLZcUVMQq8w-mwKmARvh5pMY_BOcHLSJbu9HRPV2veg__tRFtQv_nS1XtF9y18CbO4TdT_gJfeXxr39BsbMQhoEw.css" media="all" />
+    <title>Small-Scale Jetlike Features in Penumbral Chromospheres | Science</title>
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="//api.pre-val.org" />
+<link rel="canonical" href="/content/318/5856/1594" />
+<link rel="shortcut icon" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="issue_cover_image" content="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/highwire/sci/318/5856.cover.gif" />
+<meta name="HW.identifier" content="/sci/318/5856/1594.atom" />
+<meta name="HW.pisa" content="sci;318/5856/1594" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Title" content="Small-Scale Jetlike Features in Penumbral Chromospheres" />
+<meta name="DC.Identifier" content="10.1126/science.1146046" />
+<meta name="DC.Date" content="2007-12-07" />
+<meta name="DC.Publisher" content="American Association for the Advancement of Science" />
+<meta name="DC.Rights" content="American Association for the Advancement of Science" />
+<meta name="DC.AccessRights" content="restricted" />
+<meta name="DC.Relation" content="10.1126/science.318.5856.1571" />
+<meta name="DC.Contributor" content="Y. Katsukawa" />
+<meta name="DC.Contributor" content="T. E. Berger" />
+<meta name="DC.Contributor" content="K. Ichimoto" />
+<meta name="DC.Contributor" content="B. W. Lites" />
+<meta name="DC.Contributor" content="S. Nagata" />
+<meta name="DC.Contributor" content="T. Shimizu" />
+<meta name="DC.Contributor" content="R. A. Shine" />
+<meta name="DC.Contributor" content="Y. Suematsu" />
+<meta name="DC.Contributor" content="T. D. Tarbell" />
+<meta name="DC.Contributor" content="A. M. Title" />
+<meta name="DC.Contributor" content="S. Tsuneta" />
+<meta name="og:title" content="Small-Scale Jetlike Features in Penumbral Chromospheres" />
+<meta name="og:url" content="http://science.sciencemag.org/content/318/5856/1594" />
+<meta name="og:site_name" content="Science" />
+<meta name="og:image" content="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/highwire/sci/318/5856.cover.gif" />
+<meta name="og:type" content="article" />
+<meta name="article:published_time" content="2007-12-07" />
+<meta name="article:section" content="Special Reports" />
+<meta name="citation_journal_title" content="Science" />
+<meta name="citation_publisher" content="American Association for the Advancement of Science" />
+<meta name="citation_title" content="Small-Scale Jetlike Features in Penumbral Chromospheres" />
+<meta name="citation_publication_date" content="2007/12/07" />
+<meta name="citation_mjid" content="sci;318/5856/1594" />
+<meta name="citation_id" content="318/5856/1594" />
+<meta name="citation_public_url" content="http://science.sciencemag.org/content/318/5856/1594" />
+<meta name="citation_abstract_html_url" content="http://science.sciencemag.org/content/318/5856/1594.abstract" />
+<meta name="citation_full_html_url" content="http://science.sciencemag.org/content/318/5856/1594.full" />
+<meta name="citation_pdf_url" content="http://science.sciencemag.org/content/sci/318/5856/1594.full.pdf" />
+<meta name="citation_issn" content="0036-8075" />
+<meta name="citation_issn" content="1095-9203" />
+<meta name="citation_doi" content="10.1126/science.1146046" />
+<meta name="citation_pmid" content="18063791" />
+<meta name="citation_volume" content="318" />
+<meta name="citation_issue" content="5856" />
+<meta name="citation_section" content="Special Reports" />
+<meta name="citation_firstpage" content="1594" />
+<meta name="citation_lastpage" content="1597" />
+<meta name="citation_author" content="Y. Katsukawa" />
+<meta name="citation_author_institution" content="National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan." />
+<meta name="citation_author_email" content="yukio.katsukawa@nao.ac.jp" />
+<meta name="citation_author" content="T. E. Berger" />
+<meta name="citation_author_institution" content="Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA." />
+<meta name="citation_author" content="K. Ichimoto" />
+<meta name="citation_author_institution" content="National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan." />
+<meta name="citation_author" content="B. W. Lites" />
+<meta name="citation_author_institution" content="High Altitude Observatory, National Center for Atmospheric Research, Post Office Box 3000, Boulder, CO 80307, USA." />
+<meta name="citation_author" content="S. Nagata" />
+<meta name="citation_author_institution" content="Kwasan and Hida Observatory, Kyoto University, Yamashina, Kyoto 607-8471, Japan." />
+<meta name="citation_author" content="T. Shimizu" />
+<meta name="citation_author_institution" content="Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan." />
+<meta name="citation_author" content="R. A. Shine" />
+<meta name="citation_author_institution" content="Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA." />
+<meta name="citation_author" content="Y. Suematsu" />
+<meta name="citation_author_institution" content="National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan." />
+<meta name="citation_author" content="T. D. Tarbell" />
+<meta name="citation_author_institution" content="Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA." />
+<meta name="citation_author" content="A. M. Title" />
+<meta name="citation_author_institution" content="Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA." />
+<meta name="citation_author" content="S. Tsuneta" />
+<meta name="citation_author_institution" content="National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan." />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=351;citation_volume=7;citation_year=1969;citation_doi=10.1007/BF00146140" />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=366;citation_volume=7;citation_year=1969;citation_doi=10.1007/BF00146141" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=368;citation_volume=285;citation_year=1984;citation_doi=10.1086/162514" />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=298;citation_volume=20;citation_year=1971;citation_doi=10.1007/BF00159759" />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=91;citation_volume=43;citation_year=1975;citation_doi=10.1007/BF00155146" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=339;citation_volume=201;citation_year=1988" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=375;citation_volume=355;citation_year=2000" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=277;citation_volume=403;citation_year=2003;citation_doi=10.1051/0004-6361:20030237" />
+<meta name="citation_reference" content="citation_title=Proc. SPIE;citation_title=PROC SPIE;citation_pages=1142;citation_volume=5487;citation_year=2004" />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=3;citation_volume=243;citation_year=2007;citation_doi=10.1007/s11207-007-9014-6" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=413;citation_volume=430;citation_year=1994;citation_doi=10.1086/174416" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=972;citation_volume=290;citation_year=1994" />
+<meta name="citation_reference" content="citation_title=Solar Phys.;citation_pages=55;citation_volume=29;citation_year=1973;citation_doi=10.1007/BF00153440" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=621;citation_volume=348;citation_year=1999" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=411;citation_volume=450;citation_year=1995;citation_doi=10.1086/176151" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=265;citation_volume=444;citation_year=2005;citation_doi=10.1051/0004-6361:20053604" />
+<meta name="citation_reference" content="citation_title=Solar MHD Theory and Observations: A High Spatial Resolution Perspective;citation_pages=276;citation_volume=354;citation_year=2006" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=624;citation_volume=655;citation_year=2007;citation_doi=10.1086/509070" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=780;citation_volume=403;citation_year=1993;citation_doi=10.1086/172249" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=1087;citation_volume=436;citation_year=2005;citation_doi=10.1051/0004-6361:20052678" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=928;citation_volume=418;citation_year=1993;citation_doi=10.1086/173450" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=734;citation_volume=361;citation_year=2000" />
+<meta name="citation_reference" content="citation_title=Astron. Astrophys.;citation_pages=319;citation_volume=427;citation_year=2004;citation_doi=10.1051/0004-6361:20041277" />
+<meta name="citation_reference" content="citation_title=Adv. Space Res.;citation_pages=9;citation_volume=17;citation_year=1996;citation_doi=10.1016/0273-1177(95)00534-L" />
+<meta name="citation_reference" content="citation_title=Astrophys. J.;citation_pages=1047;citation_volume=535;citation_year=2000;citation_doi=10.1086/308867" />
+<meta name="citation_reference" content="citation_title=Publ. Astron. Soc. Jpn.;citation_volume=55;citation_year=2003;citation_doi=10.1093/pasj/55.5.1025" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//d2ufo47lrtsv5s.cloudfront.net" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script src="/sites/all/themes/shared/science_jcore/library/js/modernizr.js"></script>
+    <script type="text/javascript" src="//assets.adobedtm.com/926659a1689cc9fca96760b67cca714ae48f0584/satelliteLib-a9d46808a35b7b8034adfab1d8207407222304d5.js"></script>
+    <script>
+    !function(e){"use strict";e.loadCSS=function(t,n,o){var r,i=e.document,l=i.createElement("link");if(n)r=n;else{var d=(i.body||i.getElementsByTagName("head")[0]).childNodes;r=d[d.length-1]}var a=i.styleSheets;l.rel="stylesheet",l.href=t,l.media="only x",r.parentNode.insertBefore(l,n?r:r.nextSibling);var f=function(e){for(var t=l.href,n=a.length;n--;)if(a[n].href===t)return e();setTimeout(function(){f(e)})};return l.onloadcssdefined=f,f(function(){l.media=o||"all"}),l},"undefined"!=typeof module&&(module.exports=e.loadCSS)}(this);
+    loadCSS("/sites/all/themes/shared/science_jcore/library/css/style-jcore.css" );
+    loadCSS("/sites/all/themes/shared/science_jcore/library/css/fonts.css" );
+    loadCSS("//cloud.webtype.com/css/60a0fc32-0816-4858-9fb8-6ae4f6c1aa0a.css");
+    </script>
+  </head>
+  <body class="not-front no-sidebars node-type-highwire-article path-content-318-5856-1594"  id="page-top">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+        <header class="sticky-header sticky-header-is-hidden">
+  <div class="sticky-header__logo sticky-header--science">
+    <a href="/" class="sticky-header__link" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>  </div>
+    <nav class="sticky-header__nav">
+    <ul class="sticky-header__navlist"><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a></li></ul>  </nav>
+        <form class="highwire-quicksearch form-search--sticky form-inline" action="/content/318/5856/1594.full.pdf+html" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--sticky form-inline" action="/content/318/5856/1594.full.pdf+html" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords--2">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords--2" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--6" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-pwB470rzpJ1pgVi3WINtuyY2ZuwyMhlmena-R1cYzuA" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form>    <a href="#page-top" class="btn--uptoggle">
+    <i class="fa fa-long-arrow-up"></i>
+    <span class="element-invisible">Go to top of page</span>
+  </a>
+  <label class="menu-toggler__trigger" for="menu-toggler">
+    <i class="fa fa-bars"></i>
+    <span class="element-invisible">Toggle menu</span>
+  </label>
+</header>
+<input type="checkbox" id="menu-toggler" class="menu-toggler" />
+
+<header class="row row--header">
+  <div class="container container--header">
+      <div  class="region region-header-leaderboard header--leaderboard">
+    <div  class="leaderboard__banner" id="block-panels-mini-science-leaderboard-banner">
+      
+    <div id='aaas-oas_Top'></div></div><div  class="leaderboard__sitelicense" id="block-panels-mini-science-leaderboard-site-license">
+      
+    <div class="panel-pane pane-panels-mini pane-jnl-sci-uid-strng user-block">
+  
+        
+        <div class="user-block__institution">
+  
+        
+      <p>Institution: MONTANA STATE UNIV</p>
+  
+</div>
+<nav class="panel-pane pane-block pane-system-user-menu pane-system user-block__nav">
+  
+        
+      <ul><li><a href="/user/login?destination=/front" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Log in </a></li>
+<li><a href="http://www.sciencemag.org/subscribe/my-account" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">My account</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact Us</a></li>
+</ul>  
+</nav>
+  
+</div>
+<div class="panel-pane pane-highwire-inst-branding sitelicense__logo">
+  
+        
+      <div id='highwire-inst-branding-0' class='highwire-inst-branding'></div>  
+</div>
+</div><div  class="leaderboard__promo" id="block-panels-mini-jnl-sci-promo-subscribe">
+      
+    <div class="promo-subscribe"><div class="promo__mag">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;352/6282" data-pisa-master="sci;352/6282" data-apath="/sci/352/6282.atom" id="sci3526282atom"><img class="promo__mag__cover" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_footer_promo_cover/public/externals/59d69caae6958fda1f6f883f492bd2b9.gif?itok=7PFSv4Um" alt="Magazine Cover" /></div>  
+</div>
+<div class="panel-pane pane-block pane-menu-menu-subscribe pane-menu promo__offers">
+  
+        
+      <ul><li class="expanded"><h3><a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Subscribe</a></h3> <ul><li><a href="https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Renew my subscription</a></li>
+<li><a href="http://promo.aaas.org/ema/index.php" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sign up for alerts</a></li>
+<li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Librarians</a></li>
+</ul></li>
+</ul>  
+</div>
+</div></div>  </div>
+    <div  class="region region-header-primary header--primary">
+  <div class="header__header">
+    <div class="site-logo--header site-logo--science">
+      <a href="/" class="link--journal" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>      <a href="http://aaas.org/" class="link--aaas" data-icon-position="" data-hide-link-title="0"><img class="logo--aaas" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-aaas.svg" alt="AAAS Logo" /></a>    </div>
+    <div class="menu-toggler">.</div>
+  </div>
+      <div  class="header__aux" id="block-panels-mini-jnl-science-header-aux">
+      
+    <div class="social">
+  
+        
+      <ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine‎" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Science Magazine on Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" data-is-collapsible="0" data-is-collapsed="1" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">Google+</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">Rss</span></a></li>
+</ul>  
+</div>
+<nav class="auxnav">
+  
+        
+      <ul class="auxnav__list"><li><a href="http://www.sciencemag.org/authors/contributing-science-family-journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Authors</a></li>
+<li><a href="http://www.sciencemag.org/members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Members</a></li>
+<li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Librarians</a></li>
+<li><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertisers</a></li>
+</ul>  
+</nav>
+</div><div  class="header--nav" id="block-panels-mini-jnl-science-header-nav">
+      
+    <nav class="nav-primary">
+  
+        
+      <ul class="topnav topnav--option-3"><li class="topnav__item"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/videos" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Recent Videos</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/podcasts" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest Podcasts</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/slideshow" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Photo Galleries</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/projects/data-stories" class="" data-icon-position="" data-hide-link-title="0">Data Stories Contest</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/news/latest-news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceinsider" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceInsider</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceshots" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceShots</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/sifter" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sifter</a></li><li class="subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">From the Magazine</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/about-news-science" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/quiz" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Quizzes</a></li></ul></li><li class="current topnav__item"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a><ul class="subnav"><li class="current subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci" data-icon-position="">Science</a></li><li class="subnav__item"><a href="http://advances.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="advances" data-icon-position="">Science Advances</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/journals/immunology" class="" data-icon-position="" data-hide-link-title="0">Science Immunology</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/journals/robotics" class="" data-icon-position="" data-hide-link-title="0">Science Robotics</a></li><li class="subnav__item"><a href="http://stke.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sigtrans" data-icon-position="">Science Signaling</a></li><li class="subnav__item"><a href="http://stm.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="scitransmed" data-icon-position="">Science Translational Medicine</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/topics/hot-topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Hot Topics</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/topics/curated-topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Curated Topics</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/journals/science-special-issues" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Special Issues</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom Publishing</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/careers/articles" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Articles</a></li><li class="subnav__item"><a href="http://jobs.sciencecareers.org/?_ga=1.155765947.1469154522.1409920411" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Find Jobs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/career-resources" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Career Resources</a></li><li class="subnav__item"><a href="http://scforum.sciencecareers.org/?_ga=1.121809803.1469154522.1409920411" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Forum</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/for-employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For Employers</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Employer Profiles</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/graduate-programs" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Graduate Programs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/booklets" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Booklets</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/articles-custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers Features</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/about-science-careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About Careers</a></li></ul></li><li class="topnav__item"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/318/5856/1594.full.pdf+html" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/318/5856/1594.full.pdf+html" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--5" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-JmwNkTcHLdjX5OvoK4OthFtVU4Uj70vEjMXSWjYm2IE" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form></li></ul>  
+</nav>
+</div>  </div>
+  </div>
+</header>
+<div role="main">
+          <div  class="region region-content content">
+    <a id="main-content"></a>
+    <div  class="" id="block-system-main">
+      
+  <div class="row row--article">
+  <div class="container">
+    <div class="tertiary">
+      <div class="social-sidebar fixedsticky">
+  
+            <h4 class="share-title">
+          share        </h4>
+          
+      <ul class="socialshares"><li class="first"><a href="http://www.facebook.com/sharer/sharer.php?u=http://science.sciencemag.org/content/318/5856/1594" class="social__icon" data-icon-position="" data-hide-link-title="0"><i class="fa fa-facebook fa-lg"></i></a><span class="social__count facebook__count"></span></a></li>
+<li><a href="https://twitter.com/share?url=http://science.sciencemag.org/content/318/5856/1594&amp;text=Small-Scale Jetlike Features in Penumbral Chromospheres" class="social__icon" data-icon-position="" data-hide-link-title="0"><i class="fa fa-twitter fa-lg"></i></a><span class="social__count"></span></a></li>
+<li class="last"><a href="https://plus.google.com/share?url=http://science.sciencemag.org/content/318/5856/1594" class="social__icon" data-icon-position="" data-hide-link-title="0"><i class="fa fa-google-plus fa-lg"></i></a><span class="social__count googleplus__count"></span></a></li>
+</ul>  
+</div>
+    </div>
+    <article class="primary primary--content">
+      <div class="panel-pane pane-highwire-article-citation" id="sci-article-author-list">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="422001" id="node422001" data-pisa="sci;318/5856/1594" data-pisa-master="sci;318/5856/1594" data-apath="/sci/318/5856/1594.atom"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-article clearfix has-author-tooltip">
+  <header class="article__header">
+        <div class="overline">Special Reports</div>
+            <h1 class="article__headline"><div class="highwire-cite-title">Small-Scale Jetlike Features in Penumbral Chromospheres</div></h1>
+              <div class="article byline byline--article"><div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="contributors"><ol class="contributor-list" id="contrib-group-1"><li class="contributor" id="contrib-1"><span class="name">Y. Katsukawa</span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-corresp-1-1" class="xref-corresp" href="#corresp-1">*</a>, </li><li class="contributor" id="contrib-2"><span class="name">T. E. Berger</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, </li><li class="contributor" id="contrib-3"><span class="name">K. Ichimoto</span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a>, </li><li class="contributor" id="contrib-4"><span class="name">B. W. Lites</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, </li><li class="contributor" id="contrib-5"><span class="name">S. Nagata</span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, </li><li class="contributor" id="contrib-6"><span class="name">T. Shimizu</span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, </li><li class="contributor" id="contrib-7"><span class="name">R. A. Shine</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a>, </li><li class="contributor" id="contrib-8"><span class="name">Y. Suematsu</span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a>, </li><li class="contributor" id="contrib-9"><span class="name">T. D. Tarbell</span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a>, </li><li class="contributor" id="contrib-10"><span class="name">A. M. Title</span><a id="xref-aff-2-4" class="xref-aff" href="#aff-2">2</a>, </li><li class="last" id="contrib-11"><span class="name">S. Tsuneta</span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a></li></ol><ol class="affiliation-list"><li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup> National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</address></li><li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup> Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA.</address></li><li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup> High Altitude Observatory, National Center for Atmospheric Research, Post Office Box 3000, Boulder, CO 80307, USA.</address></li><li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup> Kwasan and Hida Observatory, Kyoto University, Yamashina, Kyoto 607-8471, Japan.</address></li><li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup> Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</address></li></ol><ol class="corresp-list"><li class="corresp" id="corresp-1"><a class="rev-xref" href="#xref-corresp-1-1">↵</a><span class="corresp-label">*</span> To whom correspondence should be addressed. E-mail: <span class="em-link"><span class="em-addr">yukio.katsukawa{at}nao.ac.jp</span></span></li></ol></div></div></div></div>
+      </header>
+
+  <div class="meta-line">
+    <cite>Science&nbsp;</cite> 07 Dec 2007:<br />Vol. 318, Issue 5856, pp. 1594-1597<br />DOI: 10.1126/science.1146046      </div>
+</div>
+<div id="hw-article-author-popups-node422001" style="display: none;"><div class="author-tooltip-0"><div class="author-tooltip-name">Y. Katsukawa</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=Y.%2BKatsukawa" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Katsukawa%20Y&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AY.%2BKatsukawa" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-1"><div class="author-tooltip-name">T. E. Berger</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=T.%20E.%2BBerger" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Berger%20TE&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AT.%2BE.%2BBerger" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-2"><div class="author-tooltip-name">K. Ichimoto</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=K.%2BIchimoto" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Ichimoto%20K&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AK.%2BIchimoto" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-3"><div class="author-tooltip-name">B. W. Lites</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> High Altitude Observatory, National Center for Atmospheric Research, Post Office Box 3000, Boulder, CO 80307, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=B.%20W.%2BLites" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Lites%20BW&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AB.%2BW.%2BLites" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-4"><div class="author-tooltip-name">S. Nagata</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Kwasan and Hida Observatory, Kyoto University, Yamashina, Kyoto 607-8471, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=S.%2BNagata" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Nagata%20S&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AS.%2BNagata" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-5"><div class="author-tooltip-name">T. Shimizu</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=T.%2BShimizu" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Shimizu%20T&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AT.%2BShimizu" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-6"><div class="author-tooltip-name">R. A. Shine</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=R.%20A.%2BShine" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Shine%20RA&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AR.%2BA.%2BShine" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-7"><div class="author-tooltip-name">Y. Suematsu</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=Y.%2BSuematsu" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Suematsu%20Y&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AY.%2BSuematsu" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-8"><div class="author-tooltip-name">T. D. Tarbell</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=T.%20D.%2BTarbell" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Tarbell%20TD&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AT.%2BD.%2BTarbell" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-9"><div class="author-tooltip-name">A. M. Title</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Lockheed Martin Solar and Astrophysics Lab, 3251 Hanover Street, Org. ADBS, Building 252, Palo Alto, CA 94304, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=A.%20M.%2BTitle" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Title%20AM&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AA.%2BM.%2BTitle" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-10"><div class="author-tooltip-name">S. Tsuneta</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=S.%2BTsuneta" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Tsuneta%20S&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AS.%2BTsuneta" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-article-preval">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-prelocation" data-doi="10.1126/science.1146046" data-logo-type="mediumcolor" data-mouseover="true"></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-panel-tabs pane-panels-ajax-tab-tabs tabbed tabbed--article">
+  
+        
+      <ul class="tabs inline panels-ajax-tab tabbed__list"><li class="first"><a href="/content/318/5856/1594" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_art" data-target-id="highwire_article_tabs" data-entity-context="node:422001" data-trigger="" data-url-enabled="1">Article</a><a href="/panels_ajax_tab/jnl_sci_tab_art/node:422001/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/318/5856/1594.figures-only" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_data" data-target-id="highwire_article_tabs" data-entity-context="node:422001" data-trigger="figures-only" data-url-enabled="1">Figures & Data</a><a href="/panels_ajax_tab/jnl_sci_tab_data/node:422001/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/318/5856/1594.article-info" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_info" data-target-id="highwire_article_tabs" data-entity-context="node:422001" data-trigger="article-info" data-url-enabled="1">Info & Metrics</a><a href="/panels_ajax_tab/jnl_sci_tab_info/node:422001/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/318/5856/1594.e-letters" class="panels-ajax-tab-tab" data-panel-name="article_tab_eletters" data-target-id="highwire_article_tabs" data-entity-context="node:422001" data-trigger="e-letters" data-url-enabled="1">eLetters</a><a href="/panels_ajax_tab/article_tab_eletters/node:422001/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class="last"><a href="/content/318/5856/1594.full-text.pdf+html" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_pdf" data-target-id="highwire_article_tabs" data-entity-context="node:422001" data-trigger="full-text.pdf+html" data-url-enabled="1"><i class="fa fa-file-pdf-o"></i> PDF</a><a href="/panels_ajax_tab/jnl_sci_tab_pdf/node:422001/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+</ul>  
+</div>
+<div class="panel-pane pane-highwire-panel-tabs-container article__body">
+  
+      
+  
+  <div class="pane-content">
+    <div data-panels-ajax-tab-preloaded="jnl_sci_tab_pdf" id="panels-ajax-tab-container-highwire_article_tabs" class="panels-ajax-tab-container"><div class="panels-ajax-tab-loading" style ="display:none"><img class="loading" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif" alt="Loading" title="Loading" /></div><div class="panels-ajax-tab-wrap-jnl_sci_tab_pdf"><div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <p><a  style="color: #cc0000;" href="http://science.sciencemag.org/content/318/5856/1594.full.pdf" target="_blank">Download PDF</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-markup">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div class="pdf-container" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="higwire-pdf-download-link"><div class="hw-pdf-only-container"><div class="hw-pdf-only-text">You are using an old browser, click here to download PDF</div><a href="/content/sci/318/5856/1594.full.pdf" class="" data-icon-position="" data-hide-link-title="0"><img class="hw-pdf-only-button" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/download_pdf.png" alt="Download PDF" title="Download PDF"></img></a></div></div><div class="highwire-pdf" data-pdf-path="/content/sci/318/5856/1594.full.pdf" data-pdfjs-path="http://science.sciencemag.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/sci/318/5856/1594.full.pdf"> PDF Container </div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-article-fulltext-link">
+  
+      
+  
+  <div class="pane-content">
+      <div class="cta__body"><p><a href="http://science.sciencemag.org/content/318/5856/1594.full">View Full Text</a></p>
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+    </article>
+        <div class="secondary">
+      <div id='aaas-util-side-1'></div><div class="panel-pane pane-panels-mini pane-jnl-sci-art-issue box-standout priority-2">
+  
+        
+        <div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-node-nid="224426" id="node224426" data-pisa="sci;318/5856" data-pisa-master="sci;318/5856" data-apath="/sci/318/5856.atom"><article class="highwire-cite highwire-cite-highwire-issue highwire-citation-jnl-sci-issue clearfix media media--var">
+      <div class="highwire-cite-highlight media__icon"><a href="/content/318/5856"  class="highlight-image-linked"><img class="highlight-image" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_issue_archive_cover/public/highwire/sci/318/5856.cover.gif?itok=KjxKyPRM" alt="Science: 318 (5856)" /></a></div>
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><a href="/content/318/5856" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Science</span></a></h3>
+                <p  class="highwire-cite-metadata minor">Vol 318, Issue 5856<br />07 December 2007 </p>
+                <ul class="priority-2 variant-list"><li class="toc first last"><a href="/content/318/5856.toc" class="highwire-variant-link variant-toc " title="Table of Contents" rel="alternative" type="text/html" data-icon-position="" data-hide-link-title="0">Table of Contents </a></li>
+</ul>  </div>
+</article></div>  </div>
+
+  
+  </div>
+  
+</div>
+<div class="panel-pane pane-panels-mini pane-jnl-sci-art-tools nav-interior">
+  
+            <h3 class="overline">
+          Article Tools        </h3>
+          
+        <ul class="article__tools"><li class="first"><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-email">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Email This Article"><i class="fa fa-lg fa-envelope"></i> <span class="title">Email</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus type="hidden"/></div>
+<div class="panel-display panel-1col clearfix" id="mini-panel-jnl_sci_art_email">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-forward-form pane-forward">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/318/5856/1594.full.pdf+html" method="post" id="forward-form" accept-charset="UTF-8"><div id="edit-instructions" class="form-item form-type-item">
+ <p>Thank you for your interest in spreading the word about Science.</p><p>NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.</p>
+</div>
+<div class="form-item field-container form-type-textfield form-item-email form-required">
+  <label class="required" for="edit-email">Your Email</label>
+ <input type="text" id="edit-email" name="email" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name">Your Name</label>
+ <input type="text" id="edit-name" name="name" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item form-type-textarea form-item-recipients form-required">
+  <label class="required" for="edit-recipients">Send To</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-recipients" name="recipients" cols="50" rows="5" class="form-textarea required"></textarea></div>
+
+<small class="description">Enter multiple addresses on separate lines or separate them with commas.</small>
+</div>
+<div id="edit-page" class="form-item form-type-item">
+  <label for="edit-page">You are going to email the following</label>
+ <a href="/content/318/5856/1594" class="active" data-icon-position="" data-hide-link-title="0">Small-Scale Jetlike Features in Penumbral Chromospheres</a>
+</div>
+<div id="edit-subject" class="form-item form-type-item">
+  <label for="edit-subject">Message Subject</label>
+ (Your Name) has forwarded a page to you from Science
+</div>
+<div id="edit-body" class="form-item form-type-item">
+  <label for="edit-body">Message Body</label>
+ (Your Name) thought you would like to see this page from the Science web site.
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message--2">Your Personal Message</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message--2" name="message" cols="50" rows="10" class="form-textarea"></textarea></div>
+</div>
+<input type="hidden" name="path" value="node/422001" />
+<input type="hidden" name="path_cid" value="" />
+<input type="hidden" name="forward_footer" value=" " />
+<input type="hidden" name="form_build_id" value="form-YtG-o_84LSzhddyP5Y6MgUFGBoFCxLNffV0-fqh67pI" />
+<input type="hidden" name="form_id" value="forward_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Send Message">Send Message</button></div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/318/5856/1594.powerpoint" class="link-icon"><i class="fa fa-lg fa-download"></i> <span class="title">Download Powerpoint</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/318/5856/1594.full-text.pdf" target="_blank" class="link-icon"><i class="fa fa-lg fa-print"></i> <span class="title">Print</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-add-member">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/highwire/folders/save_to_folders/atom%3A/sci/318/5856/1594.atom?destination=content/318/5856/1594.full.pdf%20html" id="atom-sci-318-5856-1594atom" class="highwire-save-to-folders highwire_saved_search_link_ajax link-icon"><i class="fa fa-lg fa-folder-open-o"></i> <span class="title">Save to my folders</span></a><div style="display:none" id="atom-sci-318-5856-1594atom" class="highwire_saved_folder_form_ajax_atom-sci-318-5856-1594atom"><div id="folder-form-wrapper"><form action="/content/318/5856/1594.full.pdf+html" method="post" id="highwire-user-opportunity-login" accept-charset="UTF-8"><div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name--2">User Name</label>
+ <input type="text" id="edit-name--2" name="name" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item field-container form-type-password form-item-pass form-required">
+  <label class="required" for="edit-pass">Password</label>
+ <input type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-checkbox form-item-remember">
+<label for="edit-remember"><input type="checkbox" id="edit-remember" name="remember" value="1" class="form-checkbox" /> Remember my user name &amp; password.</label>
+
+</div>
+<button type="submit" id="edit-submit--3" name="op" value="Submit">Submit</button><input type="hidden" name="form_build_id" value="form-kI-VZzhdfy-RrxjAK2Bo7vY-ZCFy5zlOHo3DMpRZWkA" />
+<input type="hidden" name="form_id" value="highwire_folders_select_folder_form" />
+<input type="hidden" name="current_path" value="content/318/5856/1594.full.pdf html" />
+</form></div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-alert">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Alerts"><i class="fa fa-lg fa-bullhorn"></i> <span class="title">Alerts</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus type="hidden"/></div>
+  <div class="panel-pane pane-custom pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <p>Please log in to add an alert for this article.</p>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-user-login-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/318/5856/1594.full.pdf+html" method="post" id="user-login" accept-charset="UTF-8"><div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name--3">Username</label>
+ <input type="text" id="edit-name--3" name="name" value="" size="60" maxlength="60" class="form-text required" />
+
+<small class="description">Enter your <a href="http://www.sciencemag.org/" class="" data-icon-position="" data-hide-link-title="0">Sciencemag.org</a> username.</small>
+</div>
+<div class="form-item field-container form-type-password form-item-pass form-required">
+  <label class="required" for="edit-pass--2">Password</label>
+ <input type="password" id="edit-pass--2" name="pass" size="60" maxlength="128" class="form-text required" />
+
+<small class="description">Enter the password that accompanies your username.</small>
+</div>
+<input type="hidden" name="form_build_id" value="form-Kzvup0fqxFcQHVjzo4PIQfOwle-c4Ud-lPE2nJ8iqZg" />
+<input type="hidden" name="form_id" value="user_login" />
+<div class="field-container form-actions form-wrapper" id="edit-actions--2"><button class="btn--submit" type="submit" id="edit-submit--4" name="op" value="Log in">Log in</button></div></form>  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-permission-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="https://s100.copyright.com/AppDispatchServlet?publisherName=AAAS&amp;publication=sci&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres&amp;publicationDate=2007-12-07&amp;author=Y.%20Katsukawa%2CT.%20E.%20Berger%2CK.%20Ichimoto%2CB.%20W.%20Lites%2CS.%20Nagata%2CT.%20Shimizu%2CR.%20A.%20Shine%2CY.%20Suematsu%2CT.%20D.%20Tarbell%2CA.%20M.%20Title%2CS.%20Tsuneta&amp;contentID=sci%3B318/5856/1594&amp;volumeNum=318&amp;issueNum=5856&amp;startPage=1594&amp;endPage=1597&amp;numPages=4&amp;copyright=American%20Association%20for%20the%20Advancement%20of%20Science&amp;orderBeanReset=true" target="_blank" class="highwire-permission-link link-icon"><i class="fa fa-lg fa-copyright"></i> <span class="title">Request Permissions</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-cite-tool">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Citation Tools"><i class="fa fa-lg fa-globe"></i> <span class="title">Citation tools</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus type="hidden"/></div>
+  <div class="panel-pane pane-highwire-citation-export">
+  
+      
+  
+  <div class="pane-content">
+    <div>  
+  <div class="highwire-citation-info">
+      <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="422001" id="node422001--2" data-pisa="sci;318/5856/1594" data-pisa-master="sci;318/5856/1594" data-apath="/sci/318/5856/1594.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Small-Scale Jetlike Features in Penumbral Chromospheres</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0">Y. Katsukawa</span>, <span class="highwire-citation-author" data-delta="1">T. E. Berger</span>, <span class="highwire-citation-author" data-delta="2">K. Ichimoto</span>, <span class="highwire-citation-author" data-delta="3">B. W. Lites</span>, <span class="highwire-citation-author" data-delta="4">S. Nagata</span>, <span class="highwire-citation-author" data-delta="5">T. Shimizu</span>, <span class="highwire-citation-author" data-delta="6">R. A. Shine</span>, <span class="highwire-citation-author" data-delta="7">Y. Suematsu</span>, <span class="highwire-citation-author" data-delta="8">T. D. Tarbell</span>, <span class="highwire-citation-author" data-delta="9">A. M. Title</span>, <span class="highwire-citation-author" data-delta="10">S. Tsuneta</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>07 Dec 2007</time> : 1594-1597 </p>
+                  </div>
+</article></div>  </div>
+  <div class="highwire-citation-formats">
+  	      <h2>Citation Manager Formats</h2>
+        <div class="highwire-citation-formats-links">
+      <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.spage=1594&rft.epage=1597&rft.atitle=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres&rft.volume=318&rft.issue=5856&rft.date=2007-12-07%2008%3A00%3A00&rft.stitle&rft.jtitle=Science&rft.au=Katsukawa%2C+Y.&rft.au=Berger%2C+T.+E.&rft.au=Ichimoto%2C+K.&rft.au=Lites%2C+B.+W.&rft.au=Nagata%2C+S.&rft.au=Shimizu%2C+T.&rft.au=Shine%2C+R.+A.&rft.au=Suematsu%2C+Y.&rft.au=Tarbell%2C+T.+D.&rft.au=Title%2C+A.+M.&rft.au=Tsuneta%2C+S."></span><ul class="hw-citation-links inline"><li class="bibtext first"><a href="/highwire/citation/422001/bibtex" class="" data-icon-position="" data-hide-link-title="0">BibTeX</a></li>
+<li class="bookends"><a href="/highwire/citation/422001/bookends" class="" data-icon-position="" data-hide-link-title="0">Bookends</a></li>
+<li class="easybib"><a href="/highwire/citation/422001/easybib" class="" data-icon-position="" data-hide-link-title="0">EasyBib</a></li>
+<li class="endnote-tagged"><a href="/highwire/citation/422001/tagged" class="" data-icon-position="" data-hide-link-title="0">EndNote (tagged)</a></li>
+<li class="endnote-8-xml"><a href="/highwire/citation/422001/endnote8" class="" data-icon-position="" data-hide-link-title="0">EndNote 8 (xml)</a></li>
+<li class="medlars"><a href="/highwire/citation/422001/medlars" class="" data-icon-position="" data-hide-link-title="0">Medlars</a></li>
+<li class="mendeley"><a href="/highwire/citation/422001/mendeley" class="" data-icon-position="" data-hide-link-title="0">Mendeley</a></li>
+<li class="papers"><a href="/highwire/citation/422001/papers" class="" data-icon-position="" data-hide-link-title="0">Papers</a></li>
+<li class="refworks-tagged"><a href="/highwire/citation/422001/refworks" class="" data-icon-position="" data-hide-link-title="0">RefWorks Tagged</a></li>
+<li class="reference-manager"><a href="/highwire/citation/422001/reference-manager" class="" data-icon-position="" data-hide-link-title="0">Ref Manager</a></li>
+<li class="ris"><a href="/highwire/citation/422001/ris" class="" data-icon-position="" data-hide-link-title="0">RIS</a></li>
+<li class="zotero last"><a href="/highwire/citation/422001/zotero" class="" data-icon-position="" data-hide-link-title="0">Zotero</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li class="last"><div class="panel-pane pane-panels-mini pane-jnl-sci-share">
+  
+      
+  
+  <div class="pane-content">
+      <div class="panel-pane pane-highwire-share-link highwire_clipboard_link_ajax" id="shareit">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" class="link-icon"><i class="fa fa-lg fa-share"></i> <span class="title">Share</span></a>  </div>
+
+  
+  </div>
+  <div class="highwire_clipboard_form_ajax_shareit"><div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="422001" id="node422001--3" data-pisa="sci;318/5856/1594" data-pisa-master="sci;318/5856/1594" data-apath="/sci/318/5856/1594.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Small-Scale Jetlike Features in Penumbral Chromospheres</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0">Y. Katsukawa</span>, <span class="highwire-citation-author" data-delta="1">T. E. Berger</span>, <span class="highwire-citation-author" data-delta="2">K. Ichimoto</span>, <span class="highwire-citation-author" data-delta="3">B. W. Lites</span>, <span class="highwire-citation-author" data-delta="4">S. Nagata</span>, <span class="highwire-citation-author" data-delta="5">T. Shimizu</span>, <span class="highwire-citation-author" data-delta="6">R. A. Shine</span>, <span class="highwire-citation-author" data-delta="7">Y. Suematsu</span>, <span class="highwire-citation-author" data-delta="8">T. D. Tarbell</span>, <span class="highwire-citation-author" data-delta="9">A. M. Title</span>, <span class="highwire-citation-author" data-delta="10">S. Tsuneta</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>07 Dec 2007</time> : 1594-1597 </p>
+                  </div>
+</article></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-article-clipboard-copy">
+  
+      
+  
+  <div class="pane-content">
+    <div class = "clipboard-copy">
+  <span class="label-url">Permalink:</span>
+  <span class="input-text-url">
+    <input type="text" id="dynamic" value="http://science.sciencemag.org/content/318/5856/1594" size="50"/>  </span>
+  <span class="copy-button button">
+    <a href="/" id="copy-dynamic" class="" data-icon-position="" data-hide-link-title="0">Copy</a>  </span>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-service-links">
+  
+      
+  
+  <div class="pane-content">
+    <div class="service-links"><a href="http://www.citeulike.org/posturl?url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="citeulike" title="Share on CiteULike" class="service-links-citeulike" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/citeyoulike.png" alt="CiteULike logo" /></a> <a href="http://www.connotea.org/add?uri=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="connotea" title="Share on connotea" class="service-links-connotea" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/connotea.png" alt="Connotea logo" /></a> <a href="http://del.icio.us/post?url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="delicious" title="Bookmark this post on del.icio.us" class="service-links-delicious" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/delicious-32.png" alt="del.icio.us logo" /></a> <a href="http://digg.com/submit?phase=2&amp;url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="digg" title="Digg this post on digg.com" class="service-links-digg" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/digg.png" alt="Digg logo" /></a> <a href="http://www.facebook.com/sharer.php?u=http%3A//science.sciencemag.org/content/318/5856/1594&amp;t=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="facebook" title="Share on Facebook" class="service-links-facebook" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/fb-blue.png" alt="Facebook logo" /></a> <a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="google" title="Bookmark this post on Google" class="service-links-google" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/google-32.png" alt="Google logo" /></a> <a href="http://www.mendeley.com/import/?url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="mendeley" title="Share on Mendeley" class="service-links-mendeley" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/mendeley.png" alt="Mendeley logo" /></a> <a href="http://reddit.com/submit?url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;title=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="reddit" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/reddit.png" alt="Reddit logo" /></a> <a href="http://twitter.com/share?url=http%3A//science.sciencemag.org/content/318/5856/1594&amp;text=Small-Scale%20Jetlike%20Features%20in%20Penumbral%20Chromospheres" id="twitter" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/twitter.png" alt="Twitter logo" /></a></div>  </div>
+
+  
+  </div>
+</div>  </div>
+
+  
+  </div>
+</li>
+</ul>  
+</div>
+<div id='aaas-util-side-2'></div><div id='aaas-oas_Right2'></div><div id='aaas-util-side-3'></div><div class="panel-pane pane-highwire-related-articles pane-list">
+  
+            <h3 class="overline">
+          Related Content        </h3>
+          
+      <ul class="highwire-related-articles-list item-list highwire-list highwire-related-articles highwire-article-citation-list"><li class="first last odd"><div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="421951" id="node421951" data-pisa="sci;318/5856/1571" data-pisa-master="sci;318/5856/1571" data-apath="/sci/318/5856/1571.atom"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-topic-and-title clearfix">
+      <div class="highwire-cite-topic byline">Introduction to special issue</div>
+      <h3 class='highwire-cite-title media__headline media--priority-2'>
+    <a href="/content/318/5856/1571"><a href="/content/318/5856/1571" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Sunrise</span></a></a>
+  </h3>
+  </div>
+</div></li></ul>  
+</div>
+<div class="panel-pane pane-highwire-related-articles nav-interior">
+  
+            <h3 class="overline">
+          Similar Articles in:        </h3>
+          
+      <div class="highwire-list-footer"><div class="highwire-related-articles-footer"><ul class="links"><li class="related-pubmed first"><a href="/lookup/external-ref?link_type=MED_NBRS&amp;access_num=18063791" target="_blank" class="" data-icon-position="" data-hide-link-title="0">PubMed</a></li>
+<li class="related-google-scholar last"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=related&amp;author[0]=Y.%2BKatsukawa&amp;author[1]=T.%2BE.%2BBerger&amp;author[2]=K.%2BIchimoto&amp;author[3]=B.%2BW.%2BLites&amp;author[4]=S.%2BNagata&amp;author[5]=T.%2BShimizu&amp;author[6]=R.%2BA.%2BShine&amp;author[7]=Y.%2BSuematsu&amp;author[8]=T.%2BD.%2BTarbell&amp;author[9]=A.%2BM.%2BTitle&amp;author[10]=S.%2BTsuneta&amp;title=Small-Scale%2BJetlike%2BFeatures%2Bin%2BPenumbral%2BChromospheres&amp;publication_year=2007&amp;path=content/318/5856/1594" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Google Scholar</a></li>
+</ul></div></div>  
+</div>
+<div class="ctools-collapsible-container ctools-collapsed pane-list"><h2 class="pane-title ctools-collapsible-handle">Cited By...</h2><div class="ctools-collapsible-content"><ul class="highwire-list highwire-cited-by"><li class="first odd"><a href="http://mnrasl.oxfordjournals.org/cgi/content/full/452/1/L16" class="" data-icon-position="" data-hide-link-title="0"><div class="highwire-cite-title">Fine structure above a light bridge in the transition region and corona</div></a><div class="variant-links"></div></li><li class="even"><a href="http://pasj.oxfordjournals.org/cgi/content/full/63/3/575" class="" data-icon-position="" data-hide-link-title="0"><div class="highwire-cite-title">Running Umbral Waves Observed with Hinode</div></a><div class="variant-links"></div></li><li class="odd"><a href="http://mnrasl.oxfordjournals.org/cgi/content/full/404/1/L74" class="" data-icon-position="" data-hide-link-title="0"><div class="highwire-cite-title">Propagation of a sausage soliton in the solar lower atmosphere observed by Hinode/SOT</div></a><div class="variant-links"></div></li><li class="even"><a href="http://science.sciencemag.org/cgi/content/full/318/5856/1591" class="" data-icon-position="" data-hide-link-title="0"><div class="highwire-cite-title">Chromospheric Anemone Jets as Evidence of Ubiquitous Reconnection</div></a><div class="variant-links"></div></li><li class="last odd"><a href="http://science.sciencemag.org/cgi/content/full/318/5856/1572" class="" data-icon-position="" data-hide-link-title="0"><div class="highwire-cite-title">Are There Alfven Waves in the Solar Atmosphere?</div></a><div class="variant-links"></div></li></ul></div></div><div class="panel-pane pane-highwire-cited-by nav-interior">
+  
+            <h3 class="overline">
+          Citing Articles in:        </h3>
+          
+      <div class="highwire-list-footer"><ul class="links"><li class="citing-isi first"><a href="http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=PARTNER_APP&amp;SrcAuth=LinksAMR&amp;KeyUT=WOS:000251421700037&amp;DestLinkType=CitingArticles&amp;DestApp=ALL_WOS&amp;UsrCustomerID=269fc60adb004b0b719031a97aedf5e9" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Web of Science <span class="counter">(81)</span></a></li>
+<li class="citing-scopus last"><a href="http://www.scopus.com/scopus/inward/citedby.url?partnerID=c9DrA512&amp;rel=R6.0.0&amp;eid=2-s2.0-36849073729&amp;md5=0950f885bf78d8580132f87cf83c7c81" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Scopus <span class="counter">(69)</span></a></li>
+</ul></div>  
+</div>
+<div class="panel-pane pane-sci-collection-to-jobs nav-interior">
+  
+            <h3 class="overline">
+          Related Jobs from ScienceCareers        </h3>
+          
+      <div class="highwire-article-collections"><ul class="highwire-article-collection-term-list highwire-list"><li class="first last odd"><span class="highwire-article-collection-term"><a href="http://jobs.sciencecareers.org/jobs/astronomy" class="" data-icon-position="" data-hide-link-title="0">Astronomy</a></span></li></ul></div>  
+</div>
+<div id='aaas-oas_x51'></div>    </div>
+      </div>
+</div></div>  </div>
+  </div>
+<div class="row row--alt row--promo">
+    <div  class="region region-pre-footer pre--footer container">
+    
+  <div class="primary"><h2 class="subsection-title heading--block"><a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank">Science</a></h2><div class="item--fourth promo-foot--current">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;352/6282" data-pisa-master="sci;352/6282" data-apath="/sci/352/6282.atom" id="sci3526282atom"><h3>8 April 2016</h3>
+<p class="promo-foot__meta">Vol 352, Issue 6282</p>
+<a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank" class="" data-icon-position="" data-hide-link-title="0"><img class="promo-foot__cover" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_footer_promo_cover/public/externals/59d69caae6958fda1f6f883f492bd2b9.gif?itok=7PFSv4Um" alt="Magazine Cover" /></a></div>  
+</div>
+<div class="item--fourth">
+  
+        
+      <div id='aaas-util-foot-1'></div>  
+</div>
+</div>  <div class="secondary"><div id='aaas-util-foot-2'></div></div>  </div>
+</div>
+
+  <div class="row row--footnav">
+      <div  class="region region-footer-nav footer--nav container">
+    <footer  class="site-footer" id="block-menu-menu-footer-nav" role="contentinfo">
+      
+  <ul class="nav-footer"><li class="expanded"><a href="http://www.sciencemag.org/about/about-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About us</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/journals/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Journals</a></li>
+<li><a href="http://www.sciencemag.org/about/leadership" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Leadership</a></li>
+<li><a href="http://www.sciencemag.org/about/team-members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Team members</a></li>
+<li><a href="http://www.aaas.org/page/employment-aaas" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Work at AAAS</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertise</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertising kits</a></li>
+<li><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom publishing</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/subscribers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For subscribers</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Site license info</a></li>
+<li><a href="http://www.sciencemag.org/members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For members</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/international-versions" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">International</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemagchina.cn/" class="" data-icon-position="" data-hide-link-title="0">Chinese</a></li>
+<li><a href="http://www.sciencemag.jp/" class="" data-icon-position="" data-hide-link-title="0">Japanese</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/help" class="" data-icon-position="" data-hide-link-title="0">Help</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/subscribe/access-options" class="" data-icon-position="" data-hide-link-title="0">Access &amp; subscriptions</a></li>
+<li><a href="http://www.sciencemag.org/help/site-tools-and-features" class="" data-icon-position="" data-hide-link-title="0">Site tools &amp; features</a></li>
+<li><a href="http://www.sciencemag.org/help/reprints-and-permissions" class="" data-icon-position="" data-hide-link-title="0">Reprints &amp; permissions</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact us</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-hide-link-title="0" class="" data-icon-position="">Stay Connected</a><ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">GooglePlus</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-is-collapsible="0" data-is-collapsed="1" title="RSS Feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">RSS Feeds</span></a></li>
+</ul></li>
+</ul></footer>  </div>
+  </div>
+
+<div class="row row--footer">
+  <div class="container">
+  <div class="footer__header">
+    <div class="site-logo--footer">
+      <a href="http://sciencemag.org" class="" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-science-aaas.svg" alt="Science/AAAS" /></a>    </div>
+  </div>
+      <div  class="footer__body" id="block-panels-mini-science-footer-body">
+      
+    <div class="copyright-statement">
+  
+        
+      <p class="priority-2">&copy; 2016 <a href="http://www.aaas.org/">American Association for the Advancement of Science</a>. All rights Reserved. AAAS is a partner of <a href="http://www.who.int/hinari/en/">HINARI</a>, <a href="http://www.aginternetwork.org/en/">AGORA</a> <a href="http://www.oaresciences.org/en">OARE</a>, <a href="http://www.patientinform.org/">PatientInform, </a> <a href="http://www.chorusaccess.org">CHORUS, </a> <a href="http://www.clockss.org">CLOCKSS, </a> <a href="http://www.crossref.org/">CrossRef</a> and <a href="http://www.projectcounter.org/">COUNTER</a>. <cite>Science</cite> ISSN 1095-9203.</p>
+  
+</div>
+<div class="footlinks">
+  
+        
+      <ul class="footlinks"><li><a href="http://www.sciencemag.org/about/terms-service" class="" data-icon-position="" data-hide-link-title="0">Terms of Service</a></li>
+<li><a href="http://www.sciencemag.org/about/privacy-policy" class="" data-icon-position="" data-hide-link-title="0">Privacy Policy</a></li>
+<li><a href="http://www.sciencemag.org/about/privacy-policy" class="" data-icon-position="" data-hide-link-title="0">Copyright</a></li>
+</ul>  
+</div>
+<div id='aaas-oas_x30'></div></div>  </div></div>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*!
+ * yepnope1.5.4
+ * (c) WTFPL, GPLv2
+ */
+(function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}})(this,document);
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/modernizr/modernizr.min.js?o5lhtb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;yepnope({test:Modernizr.matchmedia,nope:'/sites/all/libraries/media-match/media.match.min.js'});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/drupal.js?o5lhtb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;var _prum=[['id','568d96eaabe53dc70c276890'],['mark','firstbyte',(new Date()).getTime()]];(function(){var t=document.getElementsByTagName('script')[0],e=document.createElement('script');e.async='async';e.src='//rum-static.pingdom.net/prum.min.js';t.parentNode.insertBefore(e,t)})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/cluetip/jquery.cluetip.js?v=1.0.7"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/cluetip/lib/jquery.hoverIntent.js?v=1.0.7"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/cluetip/lib/jquery.bgiframe.min.js?v=1.0.7"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/ajax.js?v=7.43"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;document.createElement('picture');
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_script.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/colorbox/jquery.colorbox-min.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/colorbox/js/colorbox.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels/js/panels.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?o5lhtb"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_at_symbol.js?o5lhtb"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_author_affiliates.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.article-citation-author-tooltip.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels_ajax_tab/js/panels_ajax_tab.js?o5lhtb"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/js/highwire_toggle_download_pdf.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/textarea.js?v=7.43"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_folders/plugins/content_types/js/highwire_save_to_folders.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/progress.js?v=7.43"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_citation/plugins/content_types/js/highwire_citation_export.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/minipanel_dialog_link.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_share_dialog.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/jquery.zclip.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/ctools/js/collapsible-div.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_social_icons.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire.javascript.ahah.js?o5lhtb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;oas_tag.query='subject=ASTRONOMY';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.sticky.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.stickyHeader.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.switchPng.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/mediaelement-and-player.min.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/respondTable.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/js/script.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?o5lhtb"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;jQuery.extend(Drupal.settings,{'basePath':'\/','pathPrefix':'','ajaxPageState':{'theme':'science_jcore','theme_token':'MVHmR4AJxBQ9dqJylfS4idlOqZzIdw3CG-WdjLvMMEw','jquery_version':'1.8','css':{'modules\/system\/system.base.css':1,'modules\/system\/system.menus.css':1,'modules\/system\/system.messages.css':1,'modules\/system\/system.theme.css':1,'misc\/ui\/jquery.ui.core.css':1,'misc\/ui\/jquery.ui.theme.css':1,'misc\/ui\/jquery.ui.button.css':1,'misc\/ui\/jquery.ui.resizable.css':1,'misc\/ui\/jquery.ui.dialog.css':1,'sites\/all\/modules\/contrib\/date\/date_api\/date.css':1,'sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css':1,'modules\/field\/theme\/field.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css':1,'sites\/all\/modules\/shared\/jnl_sci_styles\/css\/jnl_sci_styles.css':1,'modules\/node\/node.css':1,'sites\/all\/modules\/shared\/contrib\/picture\/picture_wysiwyg.css':1,'modules\/search\/search.css':1,'modules\/user\/user.css':1,'sites\/all\/modules\/contrib\/views\/css\/views.css':1,'sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css':1,'sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css':1,'sites\/all\/modules\/contrib\/ctools\/css\/ctools.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css':1,'sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css':1,'sites\/all\/modules\/contrib\/panels\/css\/panels.css':1,'sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css':1,'public:\/\/ctools\/css\/263bfdb18936424f0ade19d6bd885f37.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire.style.markup.css':1,'sites\/all\/libraries\/cluetip\/jquery.cluetip.css':1,'sites\/all\/modules\/contrib\/panels_ajax_tab\/css\/panels_ajax_tab.css':1,'sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css':1,'sites\/all\/modules\/contrib\/forward\/forward.css':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_share_link.css':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_copy_permalink.css':1,'sites\/all\/modules\/contrib\/ctools\/css\/collapsible-div.css':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_citing_links.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons.css':1,'sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons-glyphs.css':1,'sites\/all\/themes\/shared\/science_jcore\/library\/css\/critical-jcore.css':1,'sites\/all\/themes\/shared\/science_jcore\/library\/css\/drupal-specific.css':1,'sites\/all\/themes\/shared\/science_jcore\/css\/global.css':1,'sites\/all\/themes\/shared\/science_jcore\/css\/temp.css':1,'sites\/all\/themes\/shared\/science_jcore\/system.theme.css':1,'sites\/all\/themes\/shared\/science_jcore\/system.base.css':1,'sites\/all\/themes\/shared\/science_jcore\/system.menus.css':1,'sites\/all\/themes\/shared\/science_jcore\/system.messages.css':1,'sites\/all\/themes\/shared\/science_jcore\/date.css':1,'sites\/all\/themes\/shared\/science_jcore\/search_api_page.css':1,'sites\/all\/themes\/shared\/science_jcore\/jquery.ui.theme.min.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_lens.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_issue_archive.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire-article-citation-list.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_search.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_search_results_tool.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_user.css':1,'sites\/all\/themes\/shared\/science_jcore\/highwire_folders.css':1,'sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css':1},'js':{'sites\/all\/libraries\/enquire.js\/enquire.min.js':1,'sites\/all\/modules\/shared\/contrib\/picture\/picturefill2\/picturefill.min.js':1,'sites\/all\/modules\/shared\/contrib\/picture\/picture.min.js':1,'https:\/\/api.pre-val.org\/pre-api\/Scripts\/PreProductAPI.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_article_preval.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_panels_ajax_tab.js':1,'sites\/all\/libraries\/modernizr\/modernizr.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js':1,'misc\/jquery.once.js':1,'misc\/drupal.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js':1,'sites\/all\/libraries\/cluetip\/jquery.cluetip.js':1,'sites\/all\/libraries\/cluetip\/lib\/jquery.hoverIntent.js':1,'sites\/all\/libraries\/cluetip\/lib\/jquery.bgiframe.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js':1,'sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js':1,'misc\/ajax.js':1,'sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js':1,'sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js':1,'sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js':1,'sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_script.js':1,'sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js':1,'sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js':1,'sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js':1,'sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js':1,'sites\/all\/modules\/contrib\/panels\/js\/panels.js':1,'sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_at_symbol.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_author_affiliates.js':1,'sites\/all\/modules\/highwire\/highwire\/js\/highwire.article-citation-author-tooltip.js':1,'sites\/all\/modules\/contrib\/panels_ajax_tab\/js\/panels_ajax_tab.js':1,'sites\/all\/modules\/highwire\/highwire\/js\/highwire_toggle_download_pdf.js':1,'misc\/textarea.js':1,'sites\/all\/modules\/highwire\/highwire\/highwire_folders\/plugins\/content_types\/js\/highwire_save_to_folders.js':1,'misc\/progress.js':1,'sites\/all\/modules\/highwire\/highwire\/highwire_citation\/plugins\/content_types\/js\/highwire_citation_export.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/minipanel_dialog_link.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_share_dialog.js':1,'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/jquery.zclip.js':1,'sites\/all\/modules\/contrib\/ctools\/js\/collapsible-div.js':1,'sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_social_icons.js':1,'sites\/all\/modules\/highwire\/highwire\/highwire.javascript.ahah.js':1,'sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.sticky.js':1,'sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.stickyHeader.js':1,'sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.switchPng.js':1,'sites\/all\/themes\/shared\/science_jcore\/library\/js\/mediaelement-and-player.min.js':1,'sites\/all\/themes\/shared\/science_jcore\/library\/js\/respondTable.js':1,'sites\/all\/themes\/shared\/science_jcore\/js\/script.js':1,'sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js':1}},'colorbox':{'opacity':'0.85','current':'{current} of {total}','previous':'\u00ab Prev','next':'Next \u00bb','close':'Close','maxWidth':'98%','maxHeight':'98%','fixed':!0,'mobiledetect':!0,'mobiledevicewidth':'480px'},'highwire':{'markup':[{'requested':'short-text','variant':'abstract','view':'abstract','pisa':'sci;318\/5856\/1594'},{'requested':'short','variant':'abstract','view':'abstract','pisa':'sci;318\/5856\/1594'},{'requested':'full-text.pdf+html','variant':'full-text.pdf+html','view':'reprint','pisa':'sci;318\/5856\/1594'}],'nid':'422001','apath':'\/sci\/318\/5856\/1594.atom','pisa':'sci;318\/5856\/1594','ac':{'sci;318\/5856\/1594':{'access':{'reprint':!0},'pisa_id':'sci;318\/5856\/1594','atom_uri':'','jcode':'sci'}},'modal_window_width':'560','share_modal_width':'560','moviepath':'sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/ZeroClipboard.swf'},'jcarousel':{'ajaxPath':'\/jcarousel\/ajax\/views'},'panel_ajax_tab':{'path':'sites\/all\/modules\/contrib\/panels_ajax_tab'},'urlIsAjaxTrusted':{'\/content\/318\/5856\/1594.full.pdf+html':!0,'\/system\/ajax':!0},'ajax':{'edit-submit--3':{'callback':'highwire_folder_login_form_submit','wrapper':'folder-form-wrapper','event':'mousedown','keypress':!0,'prevent':'click','url':'\/system\/ajax','submit':{'_triggering_element_name':'op','_triggering_element_value':'Submit'}}},'highwire_ahah':{'highwire-inst-branding-0':'\/highwire\/inst_branding\/markup\/inst_name_logo'},'highwireResponsive':{'enquire_enabled':1,'breakpoints_configured':1,'breakpoints':{'zero':'(min-width: 0px)','small':'(min-width: 480px)','med':'(min-width: 768px)','med2':'(min-width: 900px)','med3':'(min-width: 1025px)','large':'(min-width: 1100px)'}}});
+//--><!]]>
+</script>
+    <script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/enquire.js/enquire.min.js?o5lhtb"></script>
+<script type="text/javascript" async="async" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/contrib/picture/picturefill2/picturefill.min.js?v=2.0"></script>
+<script type="text/javascript" async="async" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/contrib/picture/picture.min.js?v=7.43"></script>
+<script type="text/javascript" src="https://api.pre-val.org/pre-api/Scripts/PreProductAPI.js"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_article_preval.js?o5lhtb"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_panels_ajax_tab.js?o5lhtb"></script>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+  </body>
+</html>
